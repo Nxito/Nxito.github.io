@@ -1,0 +1,118 @@
+{
+    "basics": {
+      "name": "Anxo Vilar Beiras",
+      "label": "Programmer",
+      "image": "/images/me_cartoon.png",
+      "email": "anxo97vb@gmail.com",
+      "phone": "(+34) 644 16 14 47",
+      "url": "https://github.com/Nxito",
+      "summary": "Geek guy who likes to code, play videogames, tinker with 3d , 3d printing, arduino ...",
+      "location": {
+        "address": "Vilar de calo",
+        "postalCode": "15886",
+        "city": "Teo",
+        "countryCode": "ES",
+        "region": "A Coruña"
+      },
+      "profiles": [{
+        "network": "Twitter",
+        "username": "Anxo",
+        "url": "https://twitter.com/@nxito"
+      }]
+    },
+    "work": [{
+      "name": "Tecdesoft",
+      "position": "developer",
+      "url": "https://tecdesoft.es",
+      "startDate": "2019-04-01",
+      "endDate": "2023-03-10",
+      "summary": "Primerita empresa en la que trabaje",
+      "highlights": [
+        "DFMS y otros"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "Gallego",
+      "fluency": "Native speaker"
+    },{
+      "language": "Español",
+      "fluency": "Native speaker"
+    },{
+      "language": "English",
+      "fluency": "B1"
+    }],
+    "interests": [{
+      "name": "Videogames",
+      "keywords": [
+        "Nier Automata",
+        "Tekken",
+        "Legend of Zelda",
+        "Golden Sun"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
