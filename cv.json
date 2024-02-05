@@ -160,6 +160,8 @@
       "startDate": "2021-03-01",
       "endDate": "2023-05-01",
       "description": "[Tecdesoft] Un proyecto en el que participe en mayor parte. Es una solución de digitalización de procesos LEAN",
+      "isActive":"", 
+      "github":"",
       "highlights": [
         
       ],
