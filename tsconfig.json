@@ -3,11 +3,11 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
+      "@cv": [
+        "./cv.json"
+      ],
       "@/*": [
         "src/*"
-      ],
-      "@cv": [
-        "src/cv.json"
       ]
     }
   }
