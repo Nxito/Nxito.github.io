@@ -3,21 +3,18 @@ name: Publish to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages
+      - main # Cambia 'main' por tu rama principal si es diferente
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      
-      - name: Build and Deploy
-        run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
-          npm install # O si utilizas otro sistema de construcción, ajusta esta línea
-          npm run build # O comando que uses para construir tu sitio web
-          git add .
-          git commit -m "Deploying to GitHub Pages"
-          git push
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Deploy to GitHub Pages
+      run: |
+        mkdir -p ./gh-pages
+        cp index.html ./gh-pages/index.html
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
