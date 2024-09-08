@@ -185,6 +185,24 @@
       ],
       "url": "https://github.com/Nxito/music_visualizer"
     },
+            {
+      "name": "Mini-game: BreakOut",
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-01",
+      "description": "Una base del famoso juego breakout",
+      "highlights": [
+      ],
+      "url": "https://nxito.github.io/breakout_game/"
+    },
+            {
+      "name": "Mini-app: Paint ",
+      "startDate": "2024-08-13",
+      "endDate": "2024-08-14",
+      "description": "Replica basica de la aplicacion paint de microsoft",
+      "highlights": [
+      ],
+      "url": "https://nxito.github.io/microPaint/"
+    },
     {
       "name": "Golang videogame Api",
       "startDate": "2023-11-01",
