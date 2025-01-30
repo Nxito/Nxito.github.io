@@ -6,7 +6,7 @@
       "email": "anxo97vb@gmail.com",
       "phone": "(+34) 644 16 14 47",
       "url": "https://github.com/Nxito",
-      "summary": "Me defino como un chico \"geek\" apasionado por la tecnología. Me encanta programar, diseñar y buscar soluciones creativas para desafíos técnicos.\n Siempre estoy aprendiendo y explorando nuevas ideas.",
+      "summary": "Un friki de la tecnología. Me gusta trastear con código, edicion 3D ... y mi tendencia a la pereza me hace querer automatizar las cosas.\n Siempre aprendiendo y explorando nuevas ideas.",
       "location": {
         "address": "",
         "postalCode": "15886",
@@ -30,13 +30,13 @@
     },
     "work": [{
       "name": "Tecdesoft",
-      "position": "Ingeniero Junior de Integración / Tecnico Superior de Automatizacion",
+      "position": "Ingeniero de Integración / Tecnico Superior de robótica industrial",
       "url": "https://tecdesoft.es",
       "startDate": "2019-04-01",
       "endDate": "2024-08-01",
       "summary": "",
       "highlights": [
-        "DFMS y otros"
+        "Javascript, kubernetes, docker"
       ]
     }],
     "volunteer": [{
@@ -133,7 +133,7 @@
       "name": "Edición 3D"
     }],
     "languages": [{
-      "language": "Gallego",
+      "language": "Galego",
       "fluency": "Native speaker"
     },{
       "language": "Español",
