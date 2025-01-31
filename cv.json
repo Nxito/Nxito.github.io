@@ -1,56 +1,57 @@
 {
-    "basics": {
-      "name": "Anxo Vilar Beiras",
-      "label": "FullStack Programmer",
-      "image": "/images/me.png",
-      "email": "anxo97vb@gmail.com",
-      "phone": "(+34) 644 16 14 47",
-      "url": "https://github.com/Nxito",
-      "summary": "Un friki de la tecnología. Me gusta trastear con código, edicion 3D ... y mi tendencia a la pereza me hace querer automatizar las cosas.\n Siempre aprendiendo y explorando nuevas ideas.",
-      "location": {
-        "address": "",
-        "postalCode": "15886",
-        "city": "Teo",
-        "countryCode": "ES",
-        "region": "A Coruña"
-      },
-      "profiles": [
-        {
-          "network": "LinkedIn",
-          "username": "nxito",
-          "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
-        },
-
-        {
-          "network": "GitHub",
-          "username": "nxito",
-          "url": "https://github.com/nxito"
-        }
-      ]
+  "basics": {
+    "name": "Anxo Vilar Beiras",
+    "label": "FullStack Programmer",
+    "image": "/images/me.png",
+    "email": "anxo97vb@gmail.com",
+    "phone": "(+34) 644 16 14 47",
+    "url": "https://github.com/Nxito",
+    "summary": "Un friki de la tecnología. Me gusta trastear con código, edicion 3D ... y mi tendencia a la pereza me hace querer automatizar las cosas.\n Siempre aprendiendo y explorando nuevas ideas.",
+    "location": {
+      "address": "",
+      "postalCode": "15886",
+      "city": "Teo",
+      "countryCode": "ES",
+      "region": "A Coruña"
     },
-    "work": [{
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nxito",
+        "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
+      },
+
+      {
+        "network": "GitHub",
+        "username": "nxito",
+        "url": "https://github.com/nxito"
+      }
+    ]
+  },
+  "work": [
+    {
       "name": "Tecdesoft",
       "position": "Ingeniero de Integración / Tecnico Superior de robótica industrial",
       "url": "https://tecdesoft.es",
       "startDate": "2019-04-01",
       "endDate": "2024-08-01",
       "summary": "",
-      "highlights": [
-        "Javascript, kubernetes, docker"
-      ]
-    }],
-    "volunteer": [{
+      "highlights": ["Javascript, kubernetes, docker"]
+    }
+  ],
+  "volunteer": [
+    {
       "organization": "Organization",
       "position": "Volunteer",
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
-    "education": [{
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
       "institution": "Politecnico de Santiago de Compostela",
       "url": "https://politecnicodesantiago.es/",
       "area": "CS Automatización y robótica industrial",
@@ -61,49 +62,53 @@
       "courses": [
         "Arduino, ABB, Autocad, C++, Modbus, Electronica, Mecanica, Hidráulica..."
       ]
-    }],
-    "awards": [{
+    }
+  ],
+  "awards": [
+    {
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
-    }],
-    "certificates": [{
+    }
+  ],
+  "certificates": [
+    {
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
-    }],
-    "publications": [{
+    }
+  ],
+  "publications": [
+    {
       "name": "Publication",
       "publisher": "Company",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
       "summary": "Description…"
-    }],
-    "skills": [{
+    }
+  ],
+  "skills": [
+    {
       "name": "Web Development",
       "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "keywords": ["HTML", "CSS", "JavaScript"]
     },
     {
-      "name": "BackEnd Development"
+      "name": "JavaScript"
     },
     {
-      "name": "FrontEnd Development"
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Back/Front End Development"
     },
     {
       "name": "Vue"
     },
     {
       "name": "Svelte"
-    },
-    {
-      "name": "JavaScript"
     },
     {
       "name": "Docker & Docker-compose"
@@ -121,9 +126,6 @@
       "name": "Golang"
     },
     {
-      "name": "Kubernetes"
-    },
-    {
       "name": "Edición de vídeo"
     },
     {
@@ -131,49 +133,61 @@
     },
     {
       "name": "Edición 3D"
-    }],
-    "languages": [{
+    }
+  ],
+  "languages": [
+    {
       "language": "Galego",
       "fluency": "Native speaker"
-    },{
+    },
+    {
       "language": "Español",
       "fluency": "Native speaker"
-    },{
+    },
+    {
       "language": "English",
       "fluency": "B1"
-    }],
-    "interests": [{
+    }
+  ],
+  "interests": [
+    {
       "name": "Videogames",
-      "keywords": [
-        "Nier Automata",
-        "Tekken",
-        "Legend of Zelda",
-        "Golden Sun"
-      ]
-    }],
-    "references": [{
+      "keywords": ["Nier Automata", "Tekken", "Legend of Zelda", "Golden Sun"]
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [{
+    }
+  ],
+  "projects": [
+    {
       "name": "DFMS",
       "startDate": "2021-03-01",
       "endDate": "2023-05-01",
       "description": "[Tecdesoft] Un proyecto en el que participe en mayor parte. Es una solución de digitalización de procesos LEAN",
-      "isActive":"", 
-      "github":"",
-      "highlights": [
-        
-      ],
+      "isActive": "",
+      "github": "",
+      "highlights": [],
       "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
+    },
+    {
+      "name": "Solv3D",
+      "startDate": "2024-06-01",
+      "endDate": "2026-01-01",
+      "description": "[Tecdesoft] Un proyecto de integración de visores 3D para WinccOA.",
+      "isActive": "",
+      "github": "",
+      "highlights": [],
+      "url": "https://tecdesoft.es/"
     },
     {
       "name": "Sistema vigilancia y seguimiento",
       "startDate": "2020-01-01",
       "endDate": "2021-01-01",
       "description": "[Tecdesoft] Sistema que de vigilancia y seguimiento de un proceso de inyeccion con poliuretano",
-      "highlights": [
-      ],
+      "highlights": [],
       "url": "https://tecdesoft.es/proyecto/automatizacion-robots-inyeccion-poliuretano/"
     },
     {
@@ -181,35 +195,24 @@
       "startDate": "2022-01-01",
       "endDate": "2023-01-01",
       "description": "Reproductor de musica con visualizador. Soporta audio mp3 y videos mp4",
-      "highlights": [
-      ],
+      "highlights": [],
       "url": "https://github.com/Nxito/music_visualizer"
     },
-            {
-      "name": "Mini-game: BreakOut",
+    {
+      "name": "Mini-apps",
       "startDate": "2024-02-01",
       "endDate": "2024-02-01",
-      "description": "Una base del famoso juego breakout",
-      "highlights": [
-      ],
+      "description": "Hice alguna app pequeña para trastear, como una replica del paint o del juego breakout",
+      "highlights": [],
       "url": "https://nxito.github.io/breakout_game/"
     },
-            {
-      "name": "Mini-app: Paint ",
-      "startDate": "2024-08-13",
-      "endDate": "2024-08-14",
-      "description": "Replica basica de la aplicacion paint de microsoft",
-      "highlights": [
-      ],
-      "url": "https://nxito.github.io/microPaint/"
-    },
     {
-      "name": "Golang videogame Api",
+      "name": "Golang Api",
       "startDate": "2023-11-01",
       "endDate": "2023-11-03",
-      "description": "Api de una prueba técnica para una empresa de videojuegos",
-      "highlights": [
-      ],
+      "description": "Api de una prueba técnica, no solo he tocado JS para hacer Apis, también puedo con mas cosas",
+      "highlights": [],
       "url": "https://github.com/Nxito/nx_blckm0uth_prueba_golang"
-    }]
-  }
+    }
+  ]
+}
