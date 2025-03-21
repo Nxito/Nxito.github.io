@@ -6,9 +6,8 @@
     "email": "anxo97vb@gmail.com",
     "phone": "(+34) 644 16 14 47",
     "url": "https://github.com/Nxito",
-    "summary": "Un friki de la tecnología. Me gusta trastear con código, edicion 3D ... y mi tendencia a la pereza me hace querer automatizar las cosas.\n Siempre aprendiendo y explorando nuevas ideas.",
+    "summary": "Apasionado por la tecnología y el desarrollo de software. Me encanta experimentar con código, edición 3D y automatización para hacer las cosas más eficientes. Siempre en constante aprendizaje y explorando nuevas ideas.",
     "location": {
-      "address": "",
       "postalCode": "15886",
       "city": "Teo",
       "countryCode": "ES",
@@ -20,7 +19,6 @@
         "username": "nxito",
         "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
       },
-
       {
         "network": "GitHub",
         "username": "nxito",
@@ -31,187 +29,78 @@
   "work": [
     {
       "name": "Tecdesoft",
-      "position": "Ingeniero de Integración / Tecnico Superior de robótica industrial",
+      "position": "Ingeniero de Integración / Técnico Superior en Robótica Industrial",
       "url": "https://tecdesoft.es",
       "startDate": "2019-04-01",
       "endDate": "2024-08-01",
-      "summary": "",
-      "highlights": ["Javascript, kubernetes, docker"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "summary": "Trabajé en la integración y automatización de procesos industriales, aplicando tecnologías como JavaScript, Kubernetes y Docker.",
+      "highlights": ["Desarrollo de software", "Integración de sistemas", "Automatización industrial"]
     }
   ],
   "education": [
     {
-      "institution": "Politecnico de Santiago de Compostela",
+      "institution": "Politécnico de Santiago de Compostela",
       "url": "https://politecnicodesantiago.es/",
-      "area": "CS Automatización y robótica industrial",
-      "studyType": "CS",
+      "area": "Automatización y Robótica Industrial",
+      "studyType": "Ciclo Superior",
       "startDate": "2017-09-21",
       "endDate": "2019-04-01",
       "score": "8.0",
-      "courses": [
-        "Arduino, ABB, Autocad, C++, Modbus, Electronica, Mecanica, Hidráulica..."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
+      "courses": ["Arduino", "ABB", "AutoCAD", "C++", "Modbus", "Electrónica", "Mecánica", "Hidráulica"]
     }
   ],
   "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
-    },
-    {
-      "name": "JavaScript"
-    },
-    {
-      "name": "Kubernetes"
-    },
-    {
-      "name": "Back/Front End Development"
-    },
-    {
-      "name": "Vue"
-    },
-    {
-      "name": "Svelte"
-    },
-    {
-      "name": "Docker & Docker-compose"
-    },
-    {
-      "name": "MongoDB"
-    },
-    {
-      "name": "Postgres"
-    },
-    {
-      "name": "NodeJS"
-    },
-    {
-      "name": "Golang"
-    },
-    {
-      "name": "Edición de vídeo"
-    },
-    {
-      "name": "Edición de imagen"
-    },
-    {
-      "name": "Edición 3D"
-    }
+    { "name": "Desarrollo Web", "keywords": ["JavaScript", "Vue", "Svelte", "Node.js"] },
+    { "name": "Backend", "keywords": ["Node.js", "Golang", "MongoDB", "PostgreSQL"] },
+    { "name": "DevOps", "keywords": ["Kubernetes", "Docker", "Docker-Compose"] },
+    { "name": "Edición Multimedia", "keywords": ["Edición de vídeo", "Edición de imagen", "Edición 3D"] }
   ],
   "languages": [
-    {
-      "language": "Galego",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Español",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "B1"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Videogames",
-      "keywords": ["Nier Automata", "Tekken", "Legend of Zelda", "Golden Sun"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
+    { "language": "Galego", "fluency": "Nativo" },
+    { "language": "Español", "fluency": "Nativo" },
+    { "language": "Inglés", "fluency": "B1" }
   ],
   "projects": [
     {
       "name": "DFMS",
       "startDate": "2021-03-01",
       "endDate": "2023-05-01",
-      "description": "[Tecdesoft] Un proyecto en el que participe en mayor parte. Es una solución de digitalización de procesos LEAN",
-      "isActive": "",
-      "github": "",
-      "highlights": [],
+      "description": "Solución de digitalización de procesos LEAN en la que participé activamente, optimizando la integración y automatización.",
       "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
     },
     {
       "name": "Solv3D",
       "startDate": "2024-06-01",
       "endDate": "2026-01-01",
-      "description": "[Tecdesoft] Un proyecto de integración de visores 3D para WinccOA.",
-      "isActive": "",
-      "github": "",
-      "highlights": [],
+      "description": "Proyecto de integración de visores 3D en WinCC OA, mejorando la visualización y análisis de datos en entornos industriales.",
       "url": "https://tecdesoft.es/"
     },
     {
-      "name": "Sistema vigilancia y seguimiento",
+      "name": "Sistema de Vigilancia y Seguimiento",
       "startDate": "2020-01-01",
       "endDate": "2021-01-01",
-      "description": "[Tecdesoft] Sistema que de vigilancia y seguimiento de un proceso de inyeccion con poliuretano",
-      "highlights": [],
+      "description": "Sistema de monitoreo y seguimiento para procesos de inyección de poliuretano, optimizando la supervisión y control del proceso.",
       "url": "https://tecdesoft.es/proyecto/automatizacion-robots-inyeccion-poliuretano/"
     },
     {
       "name": "Music Visualizer",
       "startDate": "2022-01-01",
       "endDate": "2023-01-01",
-      "description": "Reproductor de musica con visualizador. Soporta audio mp3 y videos mp4",
-      "highlights": [],
+      "description": "Reproductor de música con visualizador dinámico, compatible con archivos MP3 y MP4.",
       "url": "https://github.com/Nxito/music_visualizer"
     },
     {
-      "name": "Mini-apps",
+      "name": "Mini-Apps",
       "startDate": "2024-02-01",
       "endDate": "2024-02-01",
-      "description": "Hice alguna app pequeña para trastear, como una replica del paint o del juego breakout",
-      "highlights": [],
+      "description": "Desarrollo de pequeñas aplicaciones como una réplica de Paint y el clásico juego Breakout para experimentar con nuevas tecnologías.",
       "url": "https://nxito.github.io/breakout_game/"
     },
     {
-      "name": "Golang Api",
+      "name": "Golang API",
       "startDate": "2023-11-01",
       "endDate": "2023-11-03",
-      "description": "Api de una prueba técnica, no solo he tocado JS para hacer Apis, también puedo con mas cosas",
-      "highlights": [],
+      "description": "API desarrollada como parte de una prueba técnica. Aunque mi fuerte es JavaScript, también tengo experiencia en Golang.",
       "url": "https://github.com/Nxito/nx_blckm0uth_prueba_golang"
     }
   ]
