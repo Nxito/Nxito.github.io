@@ -86,12 +86,51 @@
       "summary": "Description…"
     }
   ],
-  "skills": [
-    { "name": "Desarrollo Web", "keywords": ["JavaScript", "Vue", "Svelte", "Node.js"] },
-    { "name": "Backend", "keywords": ["Node.js", "Golang", "MongoDB", "PostgreSQL"] },
-    { "name": "DevOps", "keywords": ["Kubernetes", "Docker", "Docker-Compose"] },
-    { "name": "Edición Multimedia", "keywords": ["Edición de vídeo", "Edición de imagen", "Edición 3D"] }
-  ],
+"skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Back/Front End Development"
+    },
+    {
+      "name": "Vue"
+    },
+    {
+      "name": "Svelte"
+    },
+    {
+      "name": "Docker & Docker-compose"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Postgres"
+    },
+    {
+      "name": "NodeJS"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "Edición de vídeo"
+    },
+    {
+      "name": "Edición de imagen"
+    },
+    {
+      "name": "Edición 3D"
+    }],
   "languages": [
     { "language": "Galego", "fluency": "Nativo" },
     { "language": "Español", "fluency": "Nativo" },
