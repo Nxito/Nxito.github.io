@@ -51,6 +51,16 @@
   ],
   "education": [
     {
+      "institution": "UNIR",
+      "url": "https://unir.com",
+      "area": "DevOps and Cloud",
+      "studyType": "Especialización universitaria",
+      "startDate": "2025-03-01",
+      "endDate": "2025-08-01",
+      "score": "",
+      "courses": ["AWS","Azure","DevOps","Jenkins"]
+    },
+    {
       "institution": "Politécnico de Santiago de Compostela",
       "url": "https://politecnicodesantiago.es/",
       "area": "Automatización y Robótica Industrial",
