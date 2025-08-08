@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Anxo Vilar Beiras",
-    "label": "FullStack Programmer",
+    "label": "DevOps & FullStack Programmer",
     "image": "/images/me.png",
     "email": "anxo97vb@gmail.com",
     "phone": "(+34) 644 16 14 47",
     "url": "https://github.com/Nxito",
-    "summary": "Apasionado por la tecnología y el desarrollo de software. Me encanta experimentar con código, edición 3D y automatización para hacer las cosas más eficientes. Siempre en constante aprendizaje y explorando nuevas ideas.",
+    "summary": "Me mola experimentar con código, edición 3D y automatización para hacer las cosas más eficientes y dinámicas. Siempre en constante aprendizaje y explorando nuevas ideas.",
     "location": {
       "address": "",
       "postalCode": "15886",
@@ -33,7 +33,7 @@
       "position": "Ingeniero de Integración / Técnico Superior en Robótica Industrial",
       "url": "https://tecdesoft.es",
       "startDate": "2019-04-01",
-      "endDate": "2024-08-01",
+      "endDate": "",
       "summary": "Trabajé en la integración y automatización de procesos industriales, aplicando tecnologías como JavaScript, Kubernetes y Docker.",
       "highlights": ["Desarrollo de software", "Integración de sistemas", "Automatización industrial"]
     }
@@ -56,7 +56,7 @@
       "area": "DevOps and Cloud",
       "studyType": "Especialización universitaria",
       "startDate": "2025-03-01",
-      "endDate": "2025-08-01",
+      "endDate": "",
       "score": "",
       "courses": ["AWS","Azure","DevOps","Jenkins"]
     },
@@ -194,14 +194,6 @@
       "description": "Reproductor de música con visualizador dinámico, compatible con archivos MP3 y MP4.",
       "highlights": [],
       "url": "https://github.com/Nxito/music_visualizer"
-    },
-    {
-      "name": "Mini-Apps",
-      "startDate": "2024-02-01",
-      "endDate": "2024-02-01",
-      "description": "Desarrollo de pequeñas aplicaciones como una réplica de Paint y el clásico juego Breakout para experimentar con nuevas tecnologías.",
-      "highlights": [],
-      "url": "https://nxito.github.io/breakout_game/"
     },
     {
       "name": "Golang API",
