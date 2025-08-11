@@ -6,11 +6,11 @@
     "email": "anxo97vb@gmail.com",
     "phone": "(+34) 644 16 14 47",
     "url": "https://github.com/Nxito",
-    "summary": "Me mola experimentar con código, edición 3D y automatización para hacer las cosas más eficientes y dinámicas. Siempre en constante aprendizaje y explorando nuevas ideas.",
+    "summary": "Polivalente. Experimento con código, edición 3D y automatización para hacer las cosas más eficientes y dinámicas. Siempre en constante aprendizaje y explorando nuevas ideas.",
     "location": {
       "address": "",
-      "postalCode": "15886",
-      "city": "Teo",
+      "postalCode": "",
+      "city": "",
       "countryCode": "ES",
       "region": "A Coruña"
     },
@@ -30,11 +30,11 @@
   "work": [
     {
       "name": "Tecdesoft",
-      "position": "Ingeniero de Integración / Técnico Superior en Robótica Industrial",
+      "position": "[2019 - Actualidad] Técnico Superior de Automatización Industrial",
       "url": "https://tecdesoft.es",
       "startDate": "2019-04-01",
       "endDate": "",
-      "summary": "Trabajé en la integración y automatización de procesos industriales, aplicando tecnologías como JavaScript, Kubernetes y Docker.",
+      "summary": " Integración de software y automatización de procesos industriales, aplicando tecnologías como TypeScript, Kubernetes y Docker.",
       "highlights": ["Desarrollo de software", "Integración de sistemas", "Automatización industrial"]
     }
   ],
@@ -53,20 +53,16 @@
     {
       "institution": "UNIR",
       "url": "https://unir.com",
-      "area": "DevOps and Cloud",
+      "area": "Programa Avanzado en DevOps & Cloud",
       "studyType": "Especialización universitaria",
-      "startDate": "2025-03-01",
-      "endDate": "",
       "score": "",
       "courses": ["AWS","Azure","DevOps","Jenkins"]
     },
     {
       "institution": "Politécnico de Santiago de Compostela",
       "url": "https://politecnicodesantiago.es/",
-      "area": "Automatización y Robótica Industrial",
+      "area": "CS Automatización y Robótica Industrial",
       "studyType": "Ciclo Superior",
-      "startDate": "2017-09-21",
-      "endDate": "2019-04-01",
       "score": "8.0",
       "courses": ["Arduino", "ABB", "AutoCAD", "C++", "Modbus", "Electrónica", "Mecánica", "Hidráulica"]
     }
@@ -167,6 +163,7 @@
       "isActive": "",
       "github": "",
       "highlights": [],
+      "urlBg":"/images/4.4.3-6-Sigma-min.jpg",
       "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
     },
     {
@@ -177,6 +174,7 @@
       "isActive": "",
       "github": "",
       "highlights": [],
+      "urlBg":"/images/example3d.png",
       "url": "https://tecdesoft.es/"
     },
     {
@@ -185,6 +183,7 @@
       "endDate": "2021-01-01",
       "description": "[Tecdesoft] Sistema de monitoreo y seguimiento para procesos de inyección de poliuretano, optimizando la supervisión y control del proceso.",
       "highlights": [],
+      "urlBg":"/images/industry.png",
       "url": "https://tecdesoft.es/proyecto/automatizacion-robots-inyeccion-poliuretano/"
     },
     {
@@ -193,6 +192,7 @@
       "endDate": "2023-01-01",
       "description": "Reproductor de música con visualizador dinámico, compatible con archivos MP3 y MP4.",
       "highlights": [],
+      "urlBg":"/images/example.png",
       "url": "https://github.com/Nxito/music_visualizer"
     },
     {
@@ -201,6 +201,7 @@
       "endDate": "2023-11-03",
       "description": "API desarrollada como parte de una prueba técnica. Aunque mi fuerte es JavaScript, también tengo experiencia en Golang.",
       "highlights": [],
+      "urlBg":"/images/gin.webp",
       "url": "https://github.com/Nxito/nx_blckm0uth_prueba_golang"
     }
   ]

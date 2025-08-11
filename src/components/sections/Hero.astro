@@ -80,7 +80,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
       </footer>
     </div>
     <figure>
-      <img src={image} alt={name} />
+      <img src="/images/me.png"/>
     </figure>
   </div>
 </Section>
@@ -92,6 +92,11 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
+    background: url(/images/me.png);
+    background-clip: text;
+    color: #3118b570;
+    text-shadow: none;
+    background-position: left;
   }
 
   .info {
@@ -115,8 +120,10 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
   img {
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    width: 128px;
+    width: 300px;
+    height: 150px;
     border-radius: 16px;
+    object-position: 0px -50px;
   }
 
   span {
@@ -178,6 +185,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 
     figure {
       margin: 0 auto;
+      
     }
   }
 </style>

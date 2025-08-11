@@ -129,6 +129,7 @@ interface Projects {
   description: string
   highlights: Highlight
   url: string
+  urlBg: string
   github?: string
 }
 
