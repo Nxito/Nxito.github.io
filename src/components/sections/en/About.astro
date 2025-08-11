@@ -1,0 +1,12 @@
+---
+import Section from "../../Section.astro"
+
+import { basics } from "@cv_en"
+const { summary } = basics
+---
+
+<Section title="About">
+  <p>
+    {summary.split("\n").map(e=>{return <div>{e}</div>})}
+  </p>
+</Section>

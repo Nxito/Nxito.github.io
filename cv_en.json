@@ -1,0 +1,209 @@
+{
+  "basics": {
+    "name": "Anxo Vilar Beiras",
+    "label": "DevOps & FullStack Programmer",
+    "image": "/images/me.png",
+    "email": "anxo97vb@gmail.com",
+    "phone": "(+34) 644 16 14 47",
+    "url": "https://github.com/Nxito",
+    "summary": "Versatile. I experiment with code, 3D editing, and automation to make things more efficient and dynamic. Always learning and exploring new ideas.",
+    "location": {
+      "address": "",
+      "postalCode": "15886",
+      "city": "Teo",
+      "countryCode": "ES",
+      "region": "A Coruña"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nxito",
+        "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
+      },
+      {
+        "network": "GitHub",
+        "username": "nxito",
+        "url": "https://github.com/nxito"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Tecdesoft",
+      "position": "[2019 - Present] Senior Industrial Automation Technician",
+      "url": "https://tecdesoft.es",
+      "startDate": "2019-04-01",
+      "endDate": "",
+      "summary": "Software integration and automation of industrial processes, using technologies such as TypeScript, Kubernetes, and Docker.",
+      "highlights": ["Software development", "System integration", "Industrial automation"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIR",
+      "url": "https://unir.com",
+      "area": "Advanced Program in DevOps & Cloud",
+      "studyType": "University Specialization",
+      "score": "",
+      "courses": ["AWS", "Azure", "DevOps", "Jenkins"]
+    },
+    {
+      "institution": "Polytechnic of Santiago de Compostela",
+      "url": "https://politecnicodesantiago.es/",
+      "area": "CS Industrial Automation and Robotics",
+      "studyType": "Higher Education",
+      "score": "8.0",
+      "courses": ["Arduino", "ABB", "AutoCAD", "C++", "Modbus", "Electronics", "Mechanics", "Hydraulics"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Back/Front End Development"
+    },
+    {
+      "name": "Vue"
+    },
+    {
+      "name": "Svelte"
+    },
+    {
+      "name": "Docker & Docker-compose"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Postgres"
+    },
+    {
+      "name": "NodeJS"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "Video Editing"
+    },
+    {
+      "name": "Image Editing"
+    },
+    {
+      "name": "3D Editing"
+    }
+  ],
+  "languages": [
+    { "language": "Galician", "fluency": "Native" },
+    { "language": "Spanish", "fluency": "Native" },
+    { "language": "English", "fluency": "B1" }
+  ],
+  "interests": [
+    {
+      "name": "Videogames",
+      "keywords": ["Nier Automata", "Tekken", "Legend of Zelda", "Golden Sun"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DFMS",
+      "startDate": "2021-03-01",
+      "endDate": "2023-05-01",
+      "description": "[Tecdesoft] A project in which I was heavily involved. It is a digital solution for LEAN processes.",
+      "isActive": "",
+      "github": "",
+      "highlights": [],
+      "urlBg": "/images/4.4.3-6-Sigma-min.jpg",
+      "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
+    },
+    {
+      "name": "Solv3D",
+      "startDate": "2024-06-01",
+      "endDate": "2026-01-01",
+      "description": "[Tecdesoft] A project integrating 3D viewers for WinCC OA.",
+      "isActive": "",
+      "github": "",
+      "highlights": [],
+      "urlBg": "/images/example3d.png",
+      "url": "https://tecdesoft.es/"
+    },
+    {
+      "name": "Surveillance and Tracking System",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "description": "[Tecdesoft] Monitoring and tracking system for polyurethane injection processes, optimizing supervision and control.",
+      "highlights": [],
+      "urlBg": "/images/industry.png",
+      "url": "https://tecdesoft.es/proyecto/automatizacion-robots-inyeccion-poliuretano/"
+    },
+    {
+      "name": "Music Visualizer",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "description": "Music player with dynamic visualizer, compatible with MP3 and MP4 files.",
+      "highlights": [],
+      "urlBg": "/images/example.png",
+      "url": "https://github.com/Nxito/music_visualizer"
+    },
+    {
+      "name": "Golang API",
+      "startDate": "2023-11-01",
+      "endDate": "2023-11-03",
+      "description": "API developed as part of a technical test. Although my strength is JavaScript, I also have experience in Golang.",
+      "highlights": [],
+      "urlBg": "/images/gin.webp",
+      "url": "https://github.com/Nxito/nx_blckm0uth_prueba_golang"
+    }
+  ]
+}
