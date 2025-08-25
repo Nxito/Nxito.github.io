@@ -6,7 +6,7 @@
     "email": "anxo97vb@gmail.com",
     "phone": "(+34) 644 16 14 47",
     "url": "https://github.com/Nxito",
-    "summary": "Polivalente. Experimento con código, edición 3D y automatización para hacer las cosas más eficientes y dinámicas. Siempre en constante aprendizaje y explorando nuevas ideas.",
+    "summary": "Polivalente. Experimento con código y automatización para hacer las cosas más eficientes y dinámicas.\nPara agilizar proyectos suelo montar maquinas propias en mis equipos, ya sea Windows o Linux. \nSiempre en constante aprendizaje y explorando nuevas ideas.",
     "location": {
       "address": "",
       "postalCode": "15886",
@@ -127,15 +127,6 @@
     },
     {
       "name": "Golang"
-    },
-    {
-      "name": "Edición de vídeo"
-    },
-    {
-      "name": "Edición de imagen"
-    },
-    {
-      "name": "Edición 3D"
     }],
   "languages": [
     { "language": "Galego", "fluency": "Nativo" },
@@ -159,7 +150,7 @@
       "name": "DFMS",
       "startDate": "2021-03-01",
       "endDate": "2023-05-01",
-      "description": "[Tecdesoft] Un proyecto en el que participé en mayor parte. Es una solución de digitalización de procesos LEAN.",
+      "description": "[Tecdesoft] \n  Solución de digitalización de procesos LEAN. \nHace uso entre otros de nginx, docker-compose, keycloak y postgres, e integra servicios como owncloud y sharepoint. \nLink: <a href='https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/'>https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/</a>",
       "isActive": "",
       "github": "",
       "highlights": [],
@@ -167,42 +158,59 @@
       "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
     },
     {
-      "name": "Solv3D",
-      "startDate": "2024-06-01",
-      "endDate": "2026-01-01",
-      "description": "[Tecdesoft] Un proyecto de integración de visores 3D para WinCC OA.",
+      "name": "Visores para cliente",
+      "startDate": "2021-03-01",
+      "endDate": "2023-05-01",
+      "description": "[Tecdesoft] \n Recogida y publicacion de datos con node-red a tiempo real, en ocasiones usando tecnologias como kafka",
       "isActive": "",
       "github": "",
       "highlights": [],
-      "urlBg":"/images/example3d.png",
-      "url": "https://tecdesoft.es/"
+      "urlBg":"/images/4.4.3-6-Sigma-min.jpg",
+      "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
     },
     {
-      "name": "Sistema de Vigilancia y Seguimiento",
-      "startDate": "2020-01-01",
-      "endDate": "2021-01-01",
-      "description": "[Tecdesoft] Sistema de monitoreo y seguimiento para procesos de inyección de poliuretano, optimizando la supervisión y control del proceso.",
-      "highlights": [],
-      "urlBg":"/images/industry.png",
-      "url": "https://tecdesoft.es/proyecto/automatizacion-robots-inyeccion-poliuretano/"
-    },
-    {
-      "name": "Music Visualizer",
+      "name": "Playback Rest api",
       "startDate": "2022-01-01",
       "endDate": "2023-01-01",
-      "description": "Reproductor de música con visualizador dinámico, compatible con archivos MP3 y MP4.",
+      "description": "[Tecdesoft] \nApi Rest dedicada al servir un streaming de un historico de datos y datos a tiempo real con una idea de uso semejante al de un reproductor mp3 pero para visores, robots industriales y entrenamiento de IA.\n Hace uso de ExpressJS y Swagger-Doc",
       "highlights": [],
-      "urlBg":"/images/example.png",
-      "url": "https://github.com/Nxito/music_visualizer"
+      "urlBg":"",
+      "url": ""
     },
     {
-      "name": "Golang API",
-      "startDate": "2023-11-01",
-      "endDate": "2023-11-03",
-      "description": "API desarrollada como parte de una prueba técnica. Aunque mi fuerte es JavaScript, también tengo experiencia en Golang.",
+      "name": "Datalake",
+      "startDate": "2024-04-01",
+      "endDate": "2025-01-03",
+      "description": "[Tecdesoft] \nInfraestructura en k8s que integra varios servicios, como minIO o hive para una solución de almacenamiento y explotación de grandes volúmenes de información de todo tipo, proceso o negocio. Link: <a href='https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/'>https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/</a>",
       "highlights": [],
-      "urlBg":"/images/gin.webp",
-      "url": "https://github.com/Nxito/nx_blckm0uth_prueba_golang"
+      "urlBg":"/images/datalaek.jpeg",
+      "url": "https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/"
+    },
+    {
+      "name": "DEVOPS - Casos Prácticos de integracion continua",
+      "startDate": "2024-04-01",
+      "endDate": "2025-01-03",
+      "description": "[UNIR] \nEjercicios de Devops realizados en la UNIR. \nEstán disponibles en mi github: \n <a href='https://github.com/Nxito/todo-list-aws'>https://github.com/Nxito/todo-list-aws</a> Ejercicio en el que se hace uso de Jenkins en un entorno AWS\n <a href='https://github.com/Nxito/caso_practico_2_unir'>https://github.com/Nxito/caso_practico_2_unir</a> Este segundo caso práctico hace uso de ansible y terraform en un entorno Azure",
+      "highlights": [],
+      "urlBg":"",
+      "url": ""
+    },    {
+      "name": "SelfStack",
+      "startDate": "2024-04-01",
+      "endDate": "2025-01-03",
+      "description": "Infraestructura casera en k8s que he realizado en casa e integra cloudflare-tunnels, tailscale para desplegar servicios utiles para mi dia a dia usando 'homepage'\n Actualmente estoy securizandolo y centralizando los usuarios del hogar con keycloak",
+      "highlights": [],
+      "urlBg":"",
+      "url": ""
+    },
+    {
+      "name": "Este Portfolio",
+      "startDate": "2024-04-01",
+      "endDate": "2025-01-03",
+      "description": "Aun que se vea simple, este portfolio está subido a github e integrado con github actions. \nEs público, accesible a traves de la web y descargable en dos clics: <a href='https://nxito.github.io/'>https://nxito.github.io/</a>",
+      "highlights": [],
+      "urlBg":"",
+      "url": ""
     }
   ]
 }

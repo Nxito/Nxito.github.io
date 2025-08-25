@@ -34,7 +34,7 @@ import { projects } from "@cv"
                       </a>
                     )}
                   </h3>
-                  <p>{description}</p>
+                  <p set:html={description.replaceAll("\n", "<br/>")}></p>
                 </header>
                 <footer>
                   {highlights.map((highlight) => {
@@ -53,7 +53,7 @@ import { projects } from "@cv"
 <style>
   ul {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 1rem;
     margin-inline: -16px;
   }
