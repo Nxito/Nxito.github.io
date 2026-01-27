@@ -6,7 +6,7 @@
     "email": "anxo97vb@gmail.com",
     "phone": "(+34) 644 16 14 47",
     "url": "https://github.com/Nxito",
-    "summary": "Polivalente. Experimento con código y automatización para hacer las cosas más eficientes y dinámicas.\nPara agilizar proyectos suelo montar maquinas propias en mis equipos, ya sea Windows o Linux. \nSiempre en constante aprendizaje y explorando nuevas ideas.",
+    "summary": "No me limito a escribir código; diseño el entorno donde se ejecuta. Despliego mis propios servidores bajo Linux y Windows para probar soluciones antes de llevarlas a producción. Mi experiencia abarca desde el control de procesos en tiempo real hasta la arquitectura cloud y DevOps. Soy un perfil resolutivo que busca entender el sistema completo para asegurar que todo funcione como debe.",
     "location": {
       "address": "",
       "postalCode": "15886",
@@ -207,10 +207,11 @@
       "name": "Este Portfolio",
       "startDate": "2024-04-01",
       "endDate": "2025-01-03",
-      "description": "Aun que se vea simple, este portfolio está subido a github e integrado con github actions. \nEs público, accesible a traves de la web y descargable en dos clics: <a href='https://nxito.github.io/'>https://nxito.github.io/</a>",
+      "description": "Minimalismo funcional, desplegado mediante GitHub Actions y diseñado para ser ligero y accesible. Descargable en dos clics: <a href='https://nxito.github.io/'>https://nxito.github.io/</a>",
       "highlights": [],
       "urlBg":"",
       "url": ""
     }
   ]
 }
+
