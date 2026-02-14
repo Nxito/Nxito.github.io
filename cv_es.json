@@ -158,17 +158,6 @@
       "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
     },
     {
-      "name": "Visores para cliente",
-      "startDate": "2021-03-01",
-      "endDate": "2023-05-01",
-      "description": "[Tecdesoft] \n Recogida y publicacion de datos con node-red a tiempo real, en ocasiones usando tecnologias como kafka",
-      "isActive": "",
-      "github": "",
-      "highlights": [],
-      "urlBg":"/images/4.4.3-6-Sigma-min.jpg",
-      "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
-    },
-    {
       "name": "Playback Rest api",
       "startDate": "2022-01-01",
       "endDate": "2023-01-01",
@@ -195,23 +184,15 @@
       "urlBg":"",
       "url": ""
     },    {
-      "name": "SelfStack",
+      "name": "Infraestructura casera con microK8s",
       "startDate": "2024-04-01",
       "endDate": "2025-01-03",
       "description": "Infraestructura casera en k8s que he realizado en casa e integra cloudflare-tunnels, tailscale para desplegar servicios utiles para mi dia a dia usando 'homepage'\n Actualmente estoy securizandolo y centralizando los usuarios del hogar con keycloak",
       "highlights": [],
       "urlBg":"",
       "url": ""
-    },
-    {
-      "name": "Este Portfolio",
-      "startDate": "2024-04-01",
-      "endDate": "2025-01-03",
-      "description": "Minimalismo funcional, desplegado mediante GitHub Actions y diseñado para ser ligero y accesible. Descargable en dos clics: <a href='https://nxito.github.io/'>https://nxito.github.io/</a>",
-      "highlights": [],
-      "urlBg":"",
-      "url": ""
     }
   ]
 }
+
 
