@@ -1,196 +1,236 @@
 {
-  "basics": {
-    "name": "Anxo Vilar Beiras",
-    "label": "DevOps & FullStack Programmer",
-    "image": "/images/me.png",
-    "email": "anxo97vb@gmail.com",
-    "phone": "(+34) 644 16 14 47",
-    "url": "https://github.com/Nxito",
+  "basics": {
+    "name": "Anxo Vilar Beiras",
+    "label": "DevOps & FullStack Programmer",
+    "image": "/images/me.png",
+    "email": "anxo97vb@gmail.com",
+    "phone": "(+34) 644 16 14 47",
+    "url": "https://github.com/Nxito",
     "summary": "Especialista en infraestructura y automatización con un enfoque en integración: desde el control de procesos industriales hasta la arquitectura cloud. No solo gestiono el despliegue, sino que entiendo el código que corre dentro. Experto en orquestación con Kubernetes y Docker, con capacidad para diseñar entornos seguros, escalables y automatizados. Perfil resolutivo y adaptable, capaz de liderar la transición técnica de proyectos complejos.",
-    "location": {
-      "address": "",
-      "postalCode": "15886",
-      "city": "Teo",
-      "countryCode": "ES",
-      "region": "A Coruña"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "nxito",
-        "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
-      },
-      {
-        "network": "GitHub",
-        "username": "nxito",
-        "url": "https://github.com/nxito"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Tecdesoft",
-      "position": "[2019 - Actualidad] Técnico Superior de Automatización Industrial",
-      "url": "https://tecdesoft.es",
-      "startDate": "2019-04-01",
-      "endDate": "",
+    "location": {
+      "address": "",
+      "postalCode": "15886",
+      "city": "Teo",
+      "countryCode": "ES",
+      "region": "A Coruña"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nxito",
+        "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
+      },
+      {
+        "network": "GitHub",
+        "username": "nxito",
+        "url": "https://github.com/nxito"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Tecdesoft",
+      "position": "[2019 - Actualidad] Técnico Superior de Automatización Industrial",
+      "url": "https://tecdesoft.es",
+      "startDate": "2019-04-01",
+      "endDate": "",
       "summary": "Rol polivalente centrado en la integración de soluciones digitales en el sector industrial. Debido a la naturaleza de los proyectos, gestiono una alta rotación de stacks tecnológicos, garantizando una adaptación inmediata y resultados óptimos en entornos de alta exigencia.",
-      "highlights": ["Desarrollo de software", "Integración de sistemas", "Automatización industrial"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "UNIR",
-      "url": "https://unir.com",
-      "area": "Programa Avanzado en DevOps & Cloud",
-      "studyType": "Especialización universitaria",
-      "score": "",
-      "courses": ["AWS","Azure","DevOps","Jenkins"]
-    },
-    {
-      "institution": "Politécnico de Santiago de Compostela",
-      "url": "https://politecnicodesantiago.es/",
-      "area": "CS Automatización y Robótica Industrial",
-      "studyType": "Ciclo Superior",
-      "score": "8.0",
-      "courses": ["Arduino", "ABB", "AutoCAD", "C++", "Modbus", "Electrónica", "Mecánica", "Hidráulica"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }
-  ],
-"skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
-    },
-    {
-      "name": "JavaScript"
-    },
-    {
-      "name": "Kubernetes"
-    },
-    {
-      "name": "Back/Front End Development"
-    },
-    {
-      "name": "Vue"
-    },
-    {
-      "name": "Svelte"
-    },
-    {
-      "name": "Docker & Docker-compose"
-    },
-    {
-      "name": "MongoDB"
-    },
-    {
-      "name": "Postgres"
-    },
-    {
-      "name": "NodeJS"
-    },
-    {
-      "name": "Golang"
-    }],
-  "languages": [
-    { "language": "Galego", "fluency": "Nativo" },
-    { "language": "Español", "fluency": "Nativo" },
-    { "language": "Inglés", "fluency": "B1" }
-  ],
-  "interests": [
-    {
-      "name": "Videogames",
-      "keywords": ["Nier Automata", "Tekken", "Legend of Zelda", "Golden Sun"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "DFMS",
-      "startDate": "2021-03-01",
-      "endDate": "2023-05-01",
-      "description": "[Tecdesoft] \n  Solución de digitalización de procesos LEAN. \nHace uso entre otros de nginx, docker-compose, keycloak y postgres, e integra servicios como owncloud y sharepoint. \nLink: <a href='https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/'>https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/</a>",
-      "isActive": "",
-      "github": "",
-      "highlights": [],
-      "urlBg":"/images/4.4.3-6-Sigma-min.jpg",
-      "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
-    },
-    {
-      "name": "Playback Rest api",
-      "startDate": "2022-01-01",
-      "endDate": "2023-01-01",
-      "description": "[Tecdesoft] \nApi Rest dedicada al servir un streaming de un historico de datos y datos a tiempo real con una idea de uso semejante al de un reproductor mp3 pero para visores, robots industriales y entrenamiento de IA.\n Hace uso de ExpressJS y Swagger-Doc",
-      "highlights": [],
-      "urlBg":"",
-      "url": ""
-    },
-    {
-      "name": "Datalake",
-      "startDate": "2024-04-01",
-      "endDate": "2025-01-03",     
-      "description": "[Tecdesoft] \nDespliegue de infraestructura compleja en Kubernetes integrando MinIO y Hive para el almacenamiento y explotación de grandes volúmenes de datos industriales en entornos críticos sin acceso a internet. Link: <a href='https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/'>https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/</a>",
-      "highlights": [],
-      "urlBg":"/images/datalaek.jpeg",
-      "url": "https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/"
-    },
-    {
-      "name": "DEVOPS - Casos Prácticos de integracion continua",
-      "startDate": "2024-04-01",
-      "endDate": "2025-01-03",
-      "description": "[UNIR] \nEjercicios de Devops realizados en la UNIR. \nEstán disponibles en mi github: \n <a href='https://github.com/Nxito/todo-list-aws'>https://github.com/Nxito/todo-list-aws</a> Ejercicio en el que se hace uso de Jenkins en un entorno AWS\n <a href='https://github.com/Nxito/caso_practico_2_unir'>https://github.com/Nxito/caso_practico_2_unir</a> Este segundo caso práctico hace uso de ansible y terraform en un entorno Azure",
-      "highlights": [],
-      "urlBg":"",
-      "url": ""
-    },    {
-      "name": "Infraestructura casera con microK8s",
-      "startDate": "2024-04-01",
-      "endDate": "2025-01-03",
-      "description": "Infraestructura casera en k8s que he realizado en casa e integra cloudflare-tunnels, tailscale para desplegar servicios utiles para mi dia a dia usando 'homepage'\n Actualmente estoy securizandolo y centralizando los usuarios del hogar con keycloak",
-      "highlights": [],
-      "urlBg":"",
-      "url": ""
-    }
-  ]
+      "highlights": [
+        "Desarrollo de software",
+        "Integración de sistemas",
+        "Automatización industrial"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIR",
+      "url": "https://unir.com",
+      "area": "Programa Avanzado en DevOps & Cloud",
+      "studyType": "Especialización universitaria",
+      "score": "",
+      "courses": [
+        "AWS",
+        "Azure",
+        "DevOps",
+        "Jenkins"
+      ]
+    },
+    {
+      "institution": "Politécnico de Santiago de Compostela",
+      "url": "https://politecnicodesantiago.es/",
+      "area": "CS Automatización y Robótica Industrial",
+      "studyType": "Ciclo Superior",
+      "score": "8.0",
+      "courses": [
+        "Arduino",
+        "ABB",
+        "AutoCAD",
+        "C++",
+        "Modbus",
+        "Electrónica",
+        "Mecánica",
+        "Hidráulica"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Back/Front End Development"
+    },
+    {
+      "name": "Vue"
+    },
+    {
+      "name": "Svelte"
+    },
+    {
+      "name": "Docker & Docker-compose"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Postgres"
+    },
+    {
+      "name": "NodeJS"
+    },
+    {
+      "name": "Golang"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Galego",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Videogames",
+      "keywords": [
+        "Nier Automata",
+        "Tekken",
+        "Legend of Zelda",
+        "Golden Sun"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DFMS",
+      "startDate": "2021-03-01",
+      "endDate": "2023-05-01",
+      "description": "[Tecdesoft] \n  Solución de digitalización de procesos LEAN. \nHace uso entre otros de nginx, docker-compose, keycloak y postgres, e integra servicios como owncloud y sharepoint. \nLink: <a href='https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/'>https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/</a>",
+      "isActive": "",
+      "github": "",
+      "highlights": [],
+      "urlBg": "/images/4.4.3-6-Sigma-min.jpg",
+      "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
+    },
+    {
+      "name": "Playback Rest api",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "description": "[Tecdesoft] \nApi Rest dedicada al servir un streaming de un historico de datos y datos a tiempo real con una idea de uso semejante al de un reproductor mp3 pero para visores, robots industriales y entrenamiento de IA.\n Hace uso de ExpressJS y Swagger-Doc",
+      "highlights": [],
+      "urlBg": "",
+      "url": ""
+    },
+    {
+      "name": "Datalake",
+      "startDate": "2024-04-01",
+      "endDate": "2025-01-03",
+      "description": "[Tecdesoft] \nDespliegue de infraestructura compleja en Kubernetes integrando MinIO y Hive para el almacenamiento y explotación de grandes volúmenes de datos industriales en entornos críticos sin acceso a internet. Link: <a href='https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/'>https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/</a>",
+      "highlights": [],
+      "urlBg": "/images/datalaek.jpeg",
+      "url": "https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/"
+    },
+    {
+      "name": "DEVOPS - Casos Prácticos de integracion continua",
+      "startDate": "2024-04-01",
+      "endDate": "2025-01-03",
+      "description": "[UNIR] \nEjercicios de Devops realizados en la UNIR. \nEstán disponibles en mi github: \n <a href='https://github.com/Nxito/todo-list-aws'>https://github.com/Nxito/todo-list-aws</a> Ejercicio en el que se hace uso de Jenkins en un entorno AWS\n <a href='https://github.com/Nxito/caso_practico_2_unir'>https://github.com/Nxito/caso_practico_2_unir</a> Este segundo caso práctico hace uso de ansible y terraform en un entorno Azure",
+      "highlights": [],
+      "urlBg": "",
+      "url": ""
+    },
+    {
+      "name": "Infraestructura casera con microK8s",
+      "startDate": "2024-04-01",
+      "endDate": "2025-01-03",
+      "description": "Infraestructura casera en k8s que he realizado en casa e integra cloudflare-tunnels, tailscale para desplegar servicios utiles para mi dia a dia usando 'homepage'\n Actualmente estoy securizandolo y centralizando los usuarios del hogar con keycloak",
+      "highlights": [],
+      "urlBg": "",
+      "url": ""
+    }
+  ]
 }
