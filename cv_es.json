@@ -1,25 +1,44 @@
 {
-  "basics": {
-    "name": "Anxo Vilar Beiras",
-    "label": "DevOps & Platform Engineer | FullStack Developer",
-    "image": "/images/me.png",
-    "email": "anxo97vb@gmail.com",
-    "phone": "(+34) 644 16 14 47",
-    "url": "https://github.com/Nxito",
+  "basics": {
+    "name": "Anxo Vilar Beiras",
+    "label": "DevOps & FullStack Programmer",
+    "image": "/images/me.png",
+    "email": "anxo97vb@gmail.com",
+    "phone": "(+34) 644 16 14 47",
+    "url": "https://github.com/Nxito",
     "summary": "Especialista en infraestructura y automatización con un enfoque en integración: desde el control de procesos industriales hasta la arquitectura cloud. No solo gestiono el despliegue, sino que entiendo el código que corre dentro. Experto en orquestación con Kubernetes y Docker, con capacidad para diseñar entornos seguros, escalables y automatizados. Perfil resolutivo y adaptable, capaz de liderar la transición técnica de proyectos complejos.",
-    "location": {
-      "city": "Teo",
-      "countryCode": "ES",
-      "region": "A Coruña"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "anxo-vilar-beiras",
-        "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
-      }
-    ]
-  },
+    "location": {
+      "address": "",
+      "postalCode": "15886",
+      "city": "Teo",
+      "countryCode": "ES",
+      "region": "A Coruña"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nxito",
+        "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
+      },
+      {
+        "network": "GitHub",
+        "username": "nxito",
+        "url": "https://github.com/nxito"
+      }
+    ]
+  },
+ 
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
   "work": [
     {
       "name": "Tecdesoft",
@@ -49,6 +68,31 @@
       "score": "8.0"
     }
   ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "Infraestructura & DevOps",
@@ -67,12 +111,24 @@
       "keywords": ["Nginx", "Keycloak", "Cloudflare Tunnels", "Tailscale", "Harbor"]
     }
   ],
-  "languages": [
-    { "language": "Galego", "fluency": "Nativo" },
-    { "language": "Español", "fluency": "Nativo" },
-    { "language": "Inglés", "fluency": "B1" }
-  ],
-  "projects": [
+  "languages": [
+    { "language": "Galego", "fluency": "Nativo" },
+    { "language": "Español", "fluency": "Nativo" },
+    { "language": "Inglés", "fluency": "B1" }
+  ],
+  "interests": [
+    {
+      "name": "Videogames",
+      "keywords": ["Nier Automata", "Tekken", "Legend of Zelda", "Golden Sun"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+"projects": [
     {
       "name": "Data Lake Industrial",
       "description": "Despliegue de infraestructura compleja en Kubernetes integrando MinIO y Hive para el almacenamiento y explotación de grandes volúmenes de datos industriales sin acceeso a internet.",
