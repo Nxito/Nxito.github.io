@@ -6,7 +6,7 @@
     "email": "anxo97vb@gmail.com",
     "phone": "(+34) 644 16 14 47",
     "url": "https://github.com/Nxito",
-    "summary": "Especialista en infraestructura y automatización con un enfoque en integración: desde el control de procesos industriales hasta la arquitectura cloud. No solo gestiono el despliegue, sino que entiendo el código que corre dentro. Experto en orquestación con Kubernetes y Docker, con capacidad para diseñar entornos seguros, escalables y automatizados. Perfil resolutivo y adaptable, capaz de liderar la transición técnica de proyectos complejos.",
+    "summary": "Especialista en infraestructura y automatización con un enfoque en integración. Desde el control de procesos industriales hasta la arquitectura cloud. No solo gestiono el despliegue, sino que entiendo el código que corre dentro. Experto en orquestación con Kubernetes y Docker, con capacidad para diseñar entornos seguros, escalables y automatizados. Perfil resolutivo y adaptable, capaz de liderar la transición técnica de proyectos complejos.",
     "location": {
       "address": "",
       "postalCode": "15886",
@@ -186,7 +186,7 @@
   ],
   "projects": [
     {
-      "name": "DFMS",
+      "name": "Digital Form Management Suite",
       "startDate": "2021-03-01",
       "endDate": "2023-05-01",
       "description": "[Tecdesoft] \n  Solución de digitalización de procesos LEAN. \nHace uso entre otros de nginx, docker-compose, keycloak y postgres, e integra servicios como owncloud y sharepoint. \nLink: <a href='https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/'>https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/</a>",
@@ -197,15 +197,6 @@
       "url": "https://tecdesoft.es/productos-tecdesoft/dfms-lean-manufacturing/"
     },
     {
-      "name": "Playback Rest api",
-      "startDate": "2022-01-01",
-      "endDate": "2023-01-01",
-      "description": "[Tecdesoft] \nApi Rest dedicada al servir un streaming de un historico de datos y datos a tiempo real con una idea de uso semejante al de un reproductor mp3 pero para visores, robots industriales y entrenamiento de IA.\n Hace uso de ExpressJS y Swagger-Doc",
-      "highlights": [],
-      "urlBg": "",
-      "url": ""
-    },
-    {
       "name": "Datalake",
       "startDate": "2024-04-01",
       "endDate": "2025-01-03",
@@ -214,15 +205,7 @@
       "urlBg": "/images/datalaek.jpeg",
       "url": "https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/"
     },
-    {
-      "name": "DEVOPS - Casos Prácticos de integracion continua",
-      "startDate": "2024-04-01",
-      "endDate": "2025-01-03",
-      "description": "[UNIR] \nEjercicios de Devops realizados en la UNIR. \nEstán disponibles en mi github: \n <a href='https://github.com/Nxito/todo-list-aws'>https://github.com/Nxito/todo-list-aws</a> Ejercicio en el que se hace uso de Jenkins en un entorno AWS\n <a href='https://github.com/Nxito/caso_practico_2_unir'>https://github.com/Nxito/caso_practico_2_unir</a> Este segundo caso práctico hace uso de ansible y terraform en un entorno Azure",
-      "highlights": [],
-      "urlBg": "",
-      "url": ""
-    },
+   
     {
       "name": "Infraestructura casera con microK8s",
       "startDate": "2024-04-01",
