@@ -1,44 +1,32 @@
 {
-  "basics": {
-    "name": "Anxo Vilar Beiras",
-    "label": "DevOps & FullStack Programmer",
-    "image": "/images/me.png",
-    "email": "anxo97vb@gmail.com",
-    "phone": "(+34) 644 16 14 47",
-    "url": "https://github.com/Nxito",
+  "basics": {
+    "name": "Anxo Vilar Beiras",
+    "label": "DevOps & FullStack Programmer",
+    "image": "/images/me.png",
+    "email": "anxo97vb@gmail.com",
+    "phone": "(+34) 644 16 14 47",
+    "url": "https://github.com/Nxito",
     "summary": "Especialista en infraestructura y automatización con un enfoque en integración: desde el control de procesos industriales hasta la arquitectura cloud. No solo gestiono el despliegue, sino que entiendo el código que corre dentro. Experto en orquestación con Kubernetes y Docker, con capacidad para diseñar entornos seguros, escalables y automatizados. Perfil resolutivo y adaptable, capaz de liderar la transición técnica de proyectos complejos.",
-    "location": {
-      "address": "",
-      "postalCode": "15886",
-      "city": "Teo",
-      "countryCode": "ES",
-      "region": "A Coruña"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "nxito",
-        "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
-      },
-      {
-        "network": "GitHub",
-        "username": "nxito",
-        "url": "https://github.com/nxito"
-      }
-    ]
-  },
- 
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
-    }
-  ],
+    "location": {
+      "address": "",
+      "postalCode": "15886",
+      "city": "Teo",
+      "countryCode": "ES",
+      "region": "A Coruña"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anxo-vilar-beiras",
+        "url": "https://www.linkedin.com/in/anxo-vilar-beiras-59327b183/"
+      },
+      {
+        "network": "GitHub",
+        "username": "nxito",
+        "url": "https://github.com/nxito"
+      }
+    ]
+  },
   "work": [
     {
       "name": "Tecdesoft",
@@ -46,7 +34,7 @@
       "url": "https://tecdesoft.es",
       "startDate": "2019-04-01",
       "endDate": "",
-      "summary": "Rol polivalente centrado en la integración de soluciones digitales en el sector industrial debido a la naturaleza de los proyectos y la rotacion de stacks tecnologicos entre estos ",
+      "summary": "Rol polivalente centrado en la integración de soluciones digitales en el sector industrial. Debido a la naturaleza de los proyectos, gestiono una alta rotación de stacks tecnológicos, garantizando una adaptación inmediata y resultados óptimos en entornos de alta exigencia.",
       "highlights": [
         "Diseño e implementación de infraestructuras en Kubernetes (MicroK8s) para entornos 'air-gapped'.",
         "Automatización de ciclos de vida de aplicaciones mediante Docker Compose y GitLab CI.",
@@ -54,84 +42,156 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "UNIR",
+      "url": "https://unir.com",
       "area": "Programa Avanzado en DevOps & Cloud",
       "studyType": "Especialización universitaria",
-      "courses": ["AWS", "Azure", "Terraform", "Ansible", "Jenkins"]
+      "score": "",
+      "courses": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Ansible",
+        "Jenkins"
+      ]
     },
     {
       "institution": "Politécnico de Santiago de Compostela",
+      "url": "https://politecnicodesantiago.es/",
       "area": "CS Automatización y Robótica Industrial",
       "studyType": "Ciclo Superior",
-      "score": "8.0"
+      "score": "8.0",
+      "courses": [
+        "Arduino",
+        "ABB",
+        "AutoCAD",
+        "C++",
+        "Modbus",
+        "Electrónica",
+        "Mecánica",
+        "Hidráulica"
+      ]
     }
   ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }
-  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "Infraestructura & DevOps",
-      "keywords": ["Kubernetes (K8s)", "Docker & Docker-compose", "MicroK8s", "Cert-manager", "API Gateway"]
+      "keywords": [
+        "Kubernetes (K8s)",
+        "Docker & Docker-compose",
+        "MicroK8s",
+        "Cert-manager",
+        "API Gateway"
+      ]
     },
     {
       "name": "Desarrollo",
-      "keywords": ["NodeJS", "TypeScript", "Golang", "ExpressJS", "Svelte", "Vue"]
+      "keywords": [
+        "NodeJS",
+        "TypeScript",
+        "Golang",
+        "ExpressJS",
+        "Svelte",
+        "Vue"
+      ]
     },
     {
       "name": "Data & Cloud",
-      "keywords": ["PostgreSQL", "MongoDB", "MinIO", "Hive", "AWS", "Azure"]
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "MinIO",
+        "Hive",
+        "AWS",
+        "Azure"
+      ]
     },
     {
       "name": "Networking & Seguridad",
-      "keywords": ["Nginx", "Keycloak", "Cloudflare Tunnels", "Tailscale", "Harbor"]
+      "keywords": [
+        "Nginx",
+        "Keycloak",
+        "Cloudflare Tunnels",
+        "Tailscale",
+        "Harbor"
+      ]
     }
   ],
-  "languages": [
-    { "language": "Galego", "fluency": "Nativo" },
-    { "language": "Español", "fluency": "Nativo" },
-    { "language": "Inglés", "fluency": "B1" }
-  ],
-  "interests": [
-    {
-      "name": "Videogames",
-      "keywords": ["Nier Automata", "Tekken", "Legend of Zelda", "Golden Sun"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
-"projects": [
+  "languages": [
+    {
+      "language": "Galego",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Videogames",
+      "keywords": [
+        "Nier Automata",
+        "Tekken",
+        "Legend of Zelda",
+        "Golden Sun"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
     {
       "name": "Data Lake Industrial",
-      "description": "Despliegue de infraestructura compleja en Kubernetes integrando MinIO y Hive para el almacenamiento y explotación de grandes volúmenes de datos industriales sin acceeso a internet.",
+      "description": "Despliegue de infraestructura compleja en Kubernetes integrando MinIO y Hive para el almacenamiento y explotación de grandes volúmenes de datos industriales en entornos críticos sin acceso a internet.",
       "url": "https://tecdesoft.es/productos-tecdesoft/data-lake-industrial/"
     },
     {
